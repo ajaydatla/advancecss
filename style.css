@@ -1,0 +1,18 @@
+body{
+    background-color: #3f94808c;
+}
+#loginform{
+    margin: auto;
+    text-align: center;
+    background-color: azure;
+    width: 28%;
+    height: 302px;
+}
+#loginform form{
+    padding-top: 38px;
+}
+.inputform{
+    width: 67%;
+    margin: 15px;
+    height: 27px;
+}
